@@ -1,0 +1,4 @@
+To hide a file or a folder, you need to name it starting with a dot
+To view the file, one can use ls -a, which views all the files hidden and normal
+To make nested directories, we use the command -p after mkdir. It would like like this mkdir -p These/folders/are/just/for/fun
+To append a line to the end of the file, we use the greater symbole twice. Then the message would be added at the end.
